@@ -1,2 +1,2 @@
 # Book-Store-Shopping-Cart
-Created online book store shopping cart alows users to select books, quantities and calculate the total price. 
+Book store shopping cart allows users to select books, quantities and calculate the total price. 
